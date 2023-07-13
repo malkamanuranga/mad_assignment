@@ -1,16 +1,4 @@
-# mad_assignment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>
+ App ScreenShot
+</h3>
+<img width="336" alt="Screenshot 2023-07-13 at 18 50 13" src="https://github.com/malkamanuranga/mad_assignment/assets/56514066/f8bf298f-618f-417d-9c2d-4f1072978bc4">
